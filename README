@@ -1,0 +1,10 @@
+I'm not sure that this thing warrants its own repo but here it is:
+tablature.el is a small emacs lisp script (four functions, actually)
+which help editing tablatures in emacs.
+
+Here is a quick reference:
+- draw-tablature inserts an empty tablature template at the point
+- insert-tab-column followed by a number of columns inserts this 
+  number of columns at the point.
+
+k, 19/01/11
